@@ -1,0 +1,6 @@
+#Settings file
+    - Filename for input
+    - EDS authentication settings
+#Requirements file
+#Query file
+#Make a dir for 

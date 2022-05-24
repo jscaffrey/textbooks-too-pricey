@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+#EBSCO credentials
+credentials.py
+
+#Data and output files
+sample_data.csv
+
+output/*
+!output/sample_output.csv
