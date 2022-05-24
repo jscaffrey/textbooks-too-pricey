@@ -1,4 +1,4 @@
-# eds-bulk-search-via-csv
+# textbooks-too-pricey
 
 This repo is created for running searches within EBSCO Discovery Service (EDS) API and returning results as additional columns appended on a CSV. It was created to search by ISBN for each row of a CSV, returning the top 5 results and omiting Book Reviews and Journal Articles. The query is easily modified.
 
